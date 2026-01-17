@@ -1,4 +1,4 @@
-# experiment-hub 🧪
+# experiment-lab 🧪
 
 A **private, local experimentation space** for trying anything and testing everything.
 
